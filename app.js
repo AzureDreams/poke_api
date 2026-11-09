@@ -15,4 +15,4 @@ try{
 } catch(error){
 pokeName.textContent = "Error please try again.";
 }
-})
+});
